@@ -1,0 +1,15 @@
+.Form{
+    display: grid;
+    justify-content: center;
+}
+
+.Form h1{
+    color: rgb(48, 48, 48);
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.formulario-botoes{
+    display: flex;
+    justify-content: space-between;
+}

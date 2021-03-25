@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(61, 61, 61);
+}
+
+.header{
+    color: rgb(174, 204, 174);
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    color: honeydew;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+}
